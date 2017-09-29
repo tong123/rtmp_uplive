@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ImageDisplay.qml</file>
+    </qresource>
+</RCC>
